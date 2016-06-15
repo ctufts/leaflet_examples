@@ -1,4 +1,5 @@
-# Leaflet Examples for a Choropleth Of Pennsylvania County Populations 
+# Leaflet Examples for JS, Python, and R
+Each example is a working example to build a Choropleth Of Pennsylvania County Populations. 
 In each subdirectory of the repo is a working example for the selected programming language. 
 Some additional helpful resources for mapping/leaflet are below:
 * [Leaflet](http://leafletjs.com/): Contains tutorials and general documentation for leaflet.js
