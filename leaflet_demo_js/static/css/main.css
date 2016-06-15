@@ -1,0 +1,60 @@
+/* custom css */
+
+
+/*  div {
+    border: 1px solid gray;
+  }*/
+
+sup {
+    font-size: 0.6em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: white;
+    shape-rendering: crispEdges;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    color: #130b0b;
+}
+
+.info h4 {
+    margin: 0 0 5px;
+    
+}
+
+#footer {
+    /*position:fixed;
+  bottom: 0px;
+  width: 400px;*/
+    text-align: center;
+}
+
+
+.x.axis path {
+    display: none;
+}
+
+#mapid {
+    height: 400px;
+}
+
+
