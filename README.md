@@ -3,6 +3,7 @@ Each example is a working example to build a Choropleth Of Pennsylvania County P
 In each subdirectory of the repo is a working example for the selected programming language. To view the R and Python notebooks in the browser see the links below:
 * [R Notebook](http://nbviewer.jupyter.org/github/ctufts/leaflet_examples/blob/master/leaflet_demo_R/PA_county_population.html)
 * [Python Notebook](http://nbviewer.jupyter.org/github/ctufts/leaflet_examples/blob/master/leaflet_demo_IPython_notebook/PA_counties_folium.ipynb)
+* [HTML/JS Version](https://htmlpreview.github.io/?https://github.com/ctufts/leaflet_examples/blob/master/leaflet_demo_js/index.html) 
 
 
 Some additional helpful resources for mapping/leaflet are below:
